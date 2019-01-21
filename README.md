@@ -5,3 +5,4 @@ Once it has installed, open your start menu.
 You should see a program named 'Tic Tac Toe'.
 Open it and have fun playing!
 Also, you can delete 'README.MD', that is just the readme which, for the matter of fact, you are currently reading. xD
+One last thing, take the folder named 'Application Files' out of the folder named 'Application Files', for the installation to work.
